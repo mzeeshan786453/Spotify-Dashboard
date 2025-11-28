@@ -1,0 +1,15 @@
+For finding the visuals from chatgpt:
+
+could you please tell us what data we can visualize and what insights we can gain from the columns below: 
+date position song artist popularity duration_ms album_type total_tracks release_date is_explicit album_cover_url 
+
+2. For Finding the measures from chatgpt:
+
+Generate all important powerbi measures for my dataset "Top-50-World" in the following format:
+each measures should be written inside DEFINE MEASURE 'Top-50-World'[Measure_name] = .....
+
+at the end also include an EVALUATE SUMMARIZE COLUMNS(.....) block listing all the measures in one output table.
+
+
+
+
