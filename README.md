@@ -1,5 +1,5 @@
 # Spotify-Dashboard
-Power BI Dashboard – Data Analysis Project
+# Power BI Dashboard – Data Analysis Project
 
 This repository contains a fully interactive Power BI dashboard created using a Kaggle dataset.
 The project focuses on data cleaning, transformation, visualization, and insight generation using Power BI — without any Python or machine learning.
